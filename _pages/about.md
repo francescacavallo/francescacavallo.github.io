@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to my personal website!"
+title: "Hi, welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-My name is Francesca Romana, and I am a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
+I am a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
 I am interested in using rich datasets and advanced computational methods to create more personalised, effective, and accessible healthcare solutions.  :computer: :dna: :stethoscope:
 
 Previously, I was a Senior Data Scientist at Optum UK, where I worked closely with the NHS to develop predictive models of medical risk.
