@@ -18,7 +18,7 @@ I hold a PhD from the Centre for Bio-Inspired Technology at Imperial College Lon
 Here you can find all about me and my work :sparkles:
 
 ## UPDATE: I wrote a book!
-### Enabling Patient-Centred Approaches in the Management and Prevention of Lifestyle-Related Conditions
+### Technologies for Personalised Healthcare: Enabling Patient-Centred Approaches in the Management and Prevention of Lifestyle-Related Conditions
 Soon available [here](https://www.taylorfrancis.com/books/mono/10.1201/9781003464983/technologies-personalised-healthcare-francesca-romana-cavallo-christofer-toumazou).
 <!-- <img align="right" width="400" height="500" src="https://github.com/francescacavallo/francescacavallo.github.io/blob/master/images/coming-soon.png"> -->
 
