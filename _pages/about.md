@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 ---
-My name is Francesca Romana, and I'm a data scientist working in healthcare :computer: :dna: :stethoscope:
+My name is Francesca Romana, and I am a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
+I am interested in using rich datasets and advanced computational methods to create more personalised, effective, and accessible healthcare solutions.  :computer: :dna: :stethoscope:
 
-I hold a PhD from the Centre for Bio-Inspired Technology at Imperial College London, where my research focused on developing patient-centred technologies for personalised healthcare. Now I work to use rich datasets and advanced computational methods to create more personalised, effective, and accessible healthcare solutions.
+Previously, I was a Senior Data Scientist at Optum UK, where I worked closely with the NHS to develop predictive models of medical risk.
+
+I hold a PhD from the Centre for Bio-Inspired Technology at Imperial College London, where my research focused on developing patient-centred technologies for personalised healthcare. 
 
 Here you can find all about me and my work :sparkles:
 
