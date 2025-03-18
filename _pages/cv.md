@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a short version of my CV. The full CV can be downloaded <a href="files/cv-feb2025.pdf" download="cv-feb2025.pdf">here.</a>
+Below is a short version of my CV. The full CV can be downloaded <a href="../files/cv-feb2025.pdf" download="cv-feb2025.pdf">here.</a>
 
 ## Education
 * PhD in Technologies for Personalised Healthcare, Imperial College London, 2018-2023
