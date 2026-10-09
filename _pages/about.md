@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to my website!"
+title: "Francesca Cavallo, health research data scientist"
 author_profile: true
 redirect_from: 
   - /about/
