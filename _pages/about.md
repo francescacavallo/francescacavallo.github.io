@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to my website!"
+title: "Francesca Cavallo | Health research data scientist"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 
 ---
 I am a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
-I am interested in using rich datasets and advanced computational methods to create more personalised, effective, and accessible healthcare solutions.  :computer: :dna: :stethoscope:
+I use AI and advanced statistical methods integrating large-scale electronic health records and omics for disease prediction, risk stratification, and causal inference.
+:computer: :dna: :stethoscope:
 
 Previously, I was a Senior Data Scientist at Optum UK, where I worked closely with the NHS to develop predictive models of medical risk.
 
@@ -19,7 +20,7 @@ Here you can find all about me and my work :sparkles:
 
 ## UPDATE: I wrote a book!
 ### Technologies for Personalised Healthcare: Enabling Patient-Centred Approaches in the Management and Prevention of Lifestyle-Related Conditions
-Soon available [here](https://www.taylorfrancis.com/books/mono/10.1201/9781003464983/technologies-personalised-healthcare-francesca-romana-cavallo-christofer-toumazou).
+Available [here](https://www.taylorfrancis.com/books/mono/10.1201/9781003464983/technologies-personalised-healthcare-francesca-romana-cavallo-christofer-toumazou).
 <!-- <img align="right" width="400" height="500" src="https://github.com/francescacavallo/francescacavallo.github.io/blob/master/images/coming-soon.png"> -->
 
 
